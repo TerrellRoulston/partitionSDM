@@ -1,0 +1,2 @@
+#malus_case_study
+This folder contains a simplified version of the Malus SDM pipeline for demonstration and reuse. The full Malus project remains in its own repository at https://github.com/MigicovskyLab/malus.
